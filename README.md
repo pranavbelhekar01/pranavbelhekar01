@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 Artificial Intelligence and Data Science enthusiast<br>🎓 Experience in machine learning, deep learning, natural language processing, and data analysis<br>🎯 Passion for using technology to solve real-world problems<br>👯 Always looking for opportunities to learn and grow<br>🔮 Excited to contribute skills and knowledge to new and challenging projects<br>🔭 Currently working on Voice Emotion Detection 
 
 ## 🧑‍🎓 Portfolio
-[![Website](https://pranavbelhekar.ml/)
+[Website](https://pranavbelhekar.ml/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pranav_620/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav0022/) 
 
