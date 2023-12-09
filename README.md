@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍🎓 Portfolio
 [Website](https://pranavbelhekar.ml/)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pranav_620/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav0022/)[![Kaggle](https://github.com/pranavbelhekar01/pranavbelhekar01/assets/85128700/28a0b2a8-196a-4dd0-816c-92f6ccd06e49)](https://www.kaggle.com/pranavbelhekar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pranav_620/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav0022/) [Kaggle](https://www.kaggle.com/pranavbelhekar)
 
 
 
