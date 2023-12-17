@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍🎓 Portfolio
 [Website](https://pranavbelhekar.ml/)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pranav_620/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav0022/) [Kaggle](https://www.kaggle.com/pranavbelhekar)
 
+[Kaggle](https://www.kaggle.com/pranavbelhekar)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pranav_620/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav0022/) 
 
 
 # 💻 Tech Stack:
