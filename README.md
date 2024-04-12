@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+## 👨🏻‍🎓 Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,21 +26,17 @@ Here are some ideas to get you started:
     <div class="icon-container">
         <!-- Icon 1 with link -->
         <a href="https://www.kaggle.com/pranavbelhekar">
-            <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Icon 1" class="icon" width = "40px" height = "40px">
+            <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Icon 1" width = "40px" height = "40px">
         </a>
         <!-- Icon 2 with link -->
         <a href="https://www.linkedin.com/in/pranav0022/">
-            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Icon 2" class="icon" width = "40px" height = "40px">
+            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Icon 2" width = "40px" height = "40px">
         </a>
     </div>
 </body>
 </html>
+[MyWebsite](https://pranavbelhekar.webflow.io/)
 
-
-## 👨🏻‍🎓 Portfolio
-[Website](https://pranavbelhekar.webflow.io/)
-
-[Kaggle](https://www.kaggle.com/pranavbelhekar)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav0022/) 
