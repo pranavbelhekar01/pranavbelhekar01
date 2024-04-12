@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .icon-container {
-            display: flex;
-            justify-content: space-between;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="icon-container">
@@ -34,7 +29,7 @@ Here are some ideas to get you started:
             <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Icon 1" class="icon" width = "40px" height = "40px">
         </a>
         <!-- Icon 2 with link -->
-        <a href="chrome://favicon/size/64@1x/https://www.linkedin.com/in/pranav0022/">
+        <a href="https://www.linkedin.com/in/pranav0022/">
             <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Icon 2" class="icon" width = "40px" height = "40px">
         </a>
     </div>
