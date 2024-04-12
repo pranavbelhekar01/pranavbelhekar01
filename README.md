@@ -26,20 +26,18 @@ Here are some ideas to get you started:
             display: flex;
             justify-content: space-between;
         }
-        .icon {
-            width: "20px"; 
-        }
+       
     </style>
 </head>
 <body>
     <div class="icon-container">
         <!-- Icon 1 with link -->
         <a href="https://www.kaggle.com/pranavbelhekar">
-            <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Icon 1" class="icon">
+            <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Icon 1" class="icon" width = "20px" height = "20px">
         </a>
         <!-- Icon 2 with link -->
         <a href="chrome://favicon/size/64@1x/https://www.linkedin.com/in/pranav0022/">
-            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Icon 2" class="icon">
+            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Icon 2" class="icon" width = "20px" height = "20px">
         </a>
         <!-- Add more icons similarly -->
         <!-- Icon 3 with link -->
