@@ -20,13 +20,38 @@ Here are some ideas to get you started:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Icons with Links</title>
+    <style>
+        .icon-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .icon {
+            width: 20px; 
+        }
+    </style>
 </head>
 <body>
-    <!-- Replace "logo.jpg" with the path to your image -->
-    <a href="https://pranavbelhekar.webflow.io/">
-        <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Logo" width = "100px" height = "100px">
-    </a>
+    <div class="icon-container">
+        <!-- Icon 1 with link -->
+        <a href="https://www.kaggle.com/pranavbelhekar">
+            <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Icon 1" class="icon">
+        </a>
+        <!-- Icon 2 with link -->
+        <a href="chrome://favicon/size/64@1x/https://www.linkedin.com/in/pranav0022/">
+            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Icon 2" class="icon">
+        </a>
+        <!-- Add more icons similarly -->
+        <!-- Icon 3 with link -->
+<!--         <a href="link3.html">
+            <img src="icon3.png" alt="Icon 3" class="icon">
+        </a>
+        Icon 4 with link -->
+<!--         <a href="link4.html">
+            <img src="icon4.png" alt="Icon 4" class="icon">
+        </a>
+        <!-- Add more icons similarly --> -->
+    </div>
 </body>
 </html>
 
