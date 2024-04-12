@@ -15,6 +15,21 @@ Here are some ideas to get you started:
 
 -->
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo with Link</title>
+</head>
+<body>
+    <!-- Replace "logo.jpg" with the path to your image -->
+    <a href="https://pranavbelhekar.webflow.io/">
+        <img src="logo.jpg" alt="Logo">
+    </a>
+</body>
+</html>
+
 
 ## 👨🏻‍🎓 Portfolio
 [Website](https://pranavbelhekar.webflow.io/)
