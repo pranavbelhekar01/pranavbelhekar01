@@ -27,7 +27,7 @@ Here are some ideas to get you started:
             justify-content: space-between;
         }
         .icon {
-            width: 20px; 
+            width: "20px"; 
         }
     </style>
 </head>
