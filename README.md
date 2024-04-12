@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-# 💫 About Me:
-🌱 Artificial Intelligence and Data Science enthusiast<br>🎓 Experience in machine learning, deep learning, natural language processing, and data analysis<br>🎯 Passion for using technology to solve real-world problems<br>👯 Always looking for opportunities to learn and grow<br>🔮 Excited to contribute skills and knowledge to new and challenging projects<br>🔭 Currently working on Voice Emotion Detection 
 
 
 ## 👨🏻‍🎓 Portfolio
