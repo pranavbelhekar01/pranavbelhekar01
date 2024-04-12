@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <body>
     <!-- Replace "logo.jpg" with the path to your image -->
     <a href="https://pranavbelhekar.webflow.io/">
-        <img src="https://assets-global.website-files.com/65dff83faf5af3e9f1b3d4d8/65e47c91540d28184bb1c32a__shinesparkly8---------a_young_man-removebg-preview.png" alt="Logo">
+        <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Logo">
     </a>
 </body>
 </html>
